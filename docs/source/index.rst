@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+EV88 - Sân Chơi Trực Tuyến Uy Tín, Đa Dạng & An Toàn
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`EV88 <https://raila2007.com/>`_ là một trong những sân chơi trực tuyến uy tín hàng đầu, cung cấp đa dạng trò chơi như game bài đổi thưởng, nổ hũ, bắn cá, casino, thể thao và xổ số. Với giao diện hiện đại, hệ thống bảo mật cao và dịch vụ chăm sóc khách hàng tận tình, EV88 mang đến trải nghiệm giải trí đẳng cấp cho người chơi. Đặc biệt, EV88 thường xuyên cập nhật chương trình khuyến mãi hấp dẫn, giúp thành viên gia tăng cơ hội chiến thắng. Nếu bạn đang tìm kiếm một địa điểm chơi game an toàn và phong phú, EV88 chính là lựa chọn lý tưởng.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ:  1086 ĐT825, Tân Tạo, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0889323933. 
 
-Contents
---------
+Email: info@raila2007.com. 
 
-.. toctree::
+Website: https://raila2007.com/
 
-   usage
-   api
+#ev88 #ev_88 #ev88_com #ev88_bet #ev88_app #ev88raila2007
